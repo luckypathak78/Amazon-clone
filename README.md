@@ -21,8 +21,7 @@ This project focuses on recreating the user interface and core frontend interact
 ## 🛠 Tech Stack
 - HTML
 - CSS
-- JavaScript  
-*(or React.js if you used React — update this accordingly)*
+
 
 ---
 
